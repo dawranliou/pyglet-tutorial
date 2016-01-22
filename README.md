@@ -1,5 +1,5 @@
 # MEGA MAN DODGE!
-This is a very geto game I'm telling.
+This is a very ghetto game I'm telling.
 
 ## Prerequisite
 1.  Python 2.7 (sorry pyglet isn't fully functioning under python 3). To figure out where your python 2 is installed, run `where python`
@@ -11,3 +11,8 @@ This is a very geto game I'm telling.
 2.  Run `pip install pyglet`
 3.  Run `python metaman.py`
 4.  Enjoy the game!
+
+## How to play
+1.  Use left key and right key to control Mega Man
+2.  Avoid the dropping balls
+3.  Hit ESC to exit the game
